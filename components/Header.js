@@ -124,7 +124,11 @@ export default function Header() {
             {/*      <!-- Actions --> */}
             <div className="ml-auto flex items-center justify-end px-6 lg:ml-0 lg:flex-1 lg:p-0">
               <div className="flex gap-4 items-center mr-4">
-                <a className="inline-block rounded-full p-2 border border-white/10">
+                <a
+                  href="https://t.me/cassiebsc"
+                  target="_blank"
+                  className="inline-block rounded-full p-2 border border-white/10"
+                >
                   <svg
                     width="20"
                     height="20"
@@ -139,7 +143,11 @@ export default function Header() {
                     />
                   </svg>
                 </a>
-                <a className="inline-block rounded-full p-2 border border-white/10">
+                <a
+                  href="https://x.com/cassiebsc?t=sjynxJoA8AKV44rxhaqE5Q&s=35"
+                  target="_blank"
+                  className="inline-block rounded-full p-2 border border-white/10"
+                >
                   <svg
                     width="20"
                     height="20"
@@ -158,7 +166,7 @@ export default function Header() {
                 </a>
               </div>
               <a
-                href="https://app.project-7.pro/"
+                href="#"
                 target="_blank"
                 className="relative  py-2 px-12 items-center justify-center rounded-full text-lg text-white bg-[#F74D64]"
               >
