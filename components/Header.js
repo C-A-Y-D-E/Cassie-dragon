@@ -166,7 +166,7 @@ export default function Header() {
                 </a>
               </div>
               <a
-                href="#"
+                href="https://www.pinksale.finance/launchpad/0x9f01a5E9275A32E9f4B394240E436BF7be2E5ddD?chain=BSC"
                 target="_blank"
                 className="relative  py-2 px-12 items-center justify-center rounded-full text-lg text-white bg-[#F74D64]"
               >
