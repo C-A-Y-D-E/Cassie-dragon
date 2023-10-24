@@ -105,7 +105,7 @@ export default function Header() {
                   role="menuitem"
                   aria-haspopup="false"
                   className="flex items-center gap-2 py-4 transition-colors duration-300 hover:text-blue-500  focus:outline-none focus-visible:outline-none lg:px-5"
-                  href="#roadmap"
+                  href="#partners"
                 >
                   <span>Partners</span>
                 </a>
@@ -115,7 +115,7 @@ export default function Header() {
                   role="menuitem"
                   aria-haspopup="false"
                   className="flex items-center gap-2 py-4 transition-colors duration-300 hover:text-blue-500  focus:outline-none focus-visible:outline-none lg:px-5"
-                  href="#roadmap"
+                  href="#nft"
                 >
                   <span>NFT</span>
                 </a>

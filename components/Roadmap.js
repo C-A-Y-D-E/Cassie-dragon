@@ -16,7 +16,7 @@ const Roadmap = () => {
     "metaverse integration, and ongoing innovation.",
   ];
   return (
-    <div>
+    <div id="roadmap">
       <div className="container mx-auto px-6 py-16 lg:py-24">
         <h2 className="text-center">Roadmap</h2>
         <div className="grid lg:grid-cols-3 gap-12 mt-12 max-w-4xl  mx-auto w-full">

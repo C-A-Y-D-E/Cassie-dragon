@@ -29,3 +29,7 @@ body {
     @apply text-3xl lg:text-5xl  font-bold;
   }
 }
+
+html{
+  scroll-behavior: smooth;
+}
