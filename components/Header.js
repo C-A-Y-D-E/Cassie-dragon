@@ -144,7 +144,7 @@ export default function Header() {
                   </svg>
                 </a>
                 <a
-                  href="https://x.com/cassiebsc?t=sjynxJoA8AKV44rxhaqE5Q&s=35"
+                  href="https://x.com/CassieDragonbsc"
                   target="_blank"
                   className="inline-block rounded-full p-2 border border-white/10"
                 >

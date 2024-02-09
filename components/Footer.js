@@ -15,13 +15,13 @@ const Footer = () => {
             <div className="flex flex-wrap gap-8 mt-8 justify-center lg:justify-start">
               <a
                 className="bg-[#28A7E8] py-2 px-6 rounded-full uppercase"
-                href="/"
+                href="https://x.com/CassieDragonbsc"
               >
                 JOIN Twitter
               </a>
               <a
                 className="bg-[#28A7E8] py-2 px-6 rounded-full uppercase"
-                href="/"
+                href="https://t.me/cassiebsc"
               >
                 JOIN Telegram
               </a>
